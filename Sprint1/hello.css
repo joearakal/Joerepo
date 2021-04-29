@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    margin-left: 40px;
+}
+h1 {
+    color: coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

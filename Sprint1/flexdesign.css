@@ -1,0 +1,21 @@
+
+.flexboxRow {
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+.flexboxColumn {
+    flex: 25%;
+    }
+  
+@media screen and (max-width: 992px) {
+    .flexboxColumn {
+        flex: 50%;
+    }
+}
+  
+@media screen and (max-width: 600px) {
+    .flexboxRow {
+        flex-direction: column;
+    }
+}

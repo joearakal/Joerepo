@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Product Page</title>
+    <link rel="stylesheet" href="ComC1.css">
+   
+</head>
+<body onload="enableLoop()" >
+  
+    <div class="flexboxRow1">
+        <div class="flexboxColumn1" style="background-color:rgba(182, 233, 253, 0.667);">
+               <img src="media/logoBella.png" alt="boat2" style="width:15%;" >
+        </div>
+        <div class="flexboxColumn1" style="background-color:rgba(182, 233, 253, 0.667);">
+
+            <p>
+               <a href="https://www.w3schools.com/">
+                <img src="media/photogal.png" alt="photgal" style="width:15%;" >
+               </a>
+            </p>  
+        </div>  
+    </div>  
+
+
+    <div class="flexboxRow2">
+        <div class="flexboxColumn2" style="background-color:rgba(182, 233, 253, 0.667);">
+            <img src="media/smoothies.jpg" alt="slushiepic" style="width: 100%;height: 500px;" >
+        </div>
+        
+        <div class="flexboxColumn2" style="background-color:rgba(182, 233, 253, 0.667);">
+            <p class="control1"> </p>
+            <p class=><video id="myVideo" width=100% height=100% autoplay muted>
+                <source src="media/btea.mp4" type="video/mp4">
+              </video></p>
+        </div>  
+        
+        <div class="flexboxColumn2" style="background-color:rgba(182, 233, 253, 0.667);">
+            <img src="media/slushieflag.jpg" alt="slushiepic" style="width: 100%;height: 500px;" >
+        </div>
+    </div>  
+
+
+    <div class="flexboxRow3">
+        <div class="flexboxColumn3" style="background-color:rgba(182, 233, 253, 0.667);">
+     
+            <ul class="myFont1"> Bubble Tea
+              <li>ALMOND</li>
+              <li>BLUEBERRY</li>
+              <li>CHAI</li>
+              <li>COCONUT</li>
+              <li>CLASSIC MILK TEA</li>
+            </ul>
+        </div> 
+        <div id="slushies" class="flexboxColumn3" style="background-color:rgba(182, 233, 253, 0.667);">
+                  <ul class="myFont2"> Slushies
+                    <li>RASBERRY</li>
+                    <li>MANGO</li>
+                    <li>KIWI</li>
+                    <li>LEYCHEE</li>
+                    <li>PINEAPPLE</li>
+                  </ul>
+        </div> 
+        <div id="add-ons" class="flexboxColumn3" style="background-color:rgba(182, 233, 253, 0.667);">
+            <ul class="myFont1"> Add-ons
+              <li>BLACK PEARLS</li>
+              <li>MANGO POPPING BOBA</li>
+              <li>PASSION FRUIT POPPING BOBA</li>
+              <li>LEYCHEE POPPING BOBA</li>
+              <li>PMEGRANATE</li>
+              <li>BLUBERRY POPPING BOBA</li>
+            </ul>
+        </div> 
+        <div class="flexboxColumn3" style="background-color:rgba(182, 233, 253, 0.667);">
+        <h2>Our Contact Info</h2>
+        <p class="contact">
+            2516 Legacy Rd, <br>
+            Frisco, TX 75070 <br>
+            Phone (214) 245-1667<br>
+            <a href="mailto:bellasboba@gmail.com">bellasboba@gmail.com</a>
+        </p>
+    </div>
+    <script>
+        var vid = document.getElementById("myVideo");
+        
+        function enableLoop() { 
+          vid.loop = true;
+          vid.load();
+        } 
+    </script>
+
+</body>
+</html>

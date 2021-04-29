@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>J&P Survey</title>
+    <meta name="description" content="J&P Survey">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="survey.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>J&P Survey</h1><br>
+            <p id="description" class="description text-center">
+                Thank you for choosing a car from us.
+            </p>
+        </header>
+    <form id="survey-form" onsubmit="surveyThanks()">
+        <div class="form-group">
+            <label id="name-label" for="textName">Last name:</label>
+            <input id="textName" type="text" required><br><br>
+        </div>
+        <div class="form-group">
+            <label id="email-label" for="textEmail">Email Address:</label>
+            <input id="textEmail" type="email" required><br><br>
+        </div>
+        <div class="form-group">
+            <label for="dropdown">Choose your favorite car make:</label><br>
+            <select id="dropdown" name="make" class="form-control" required>
+                <option disabled selected value>Select a car make</option>
+                <option value="ford">Ford</option>
+                <option value="chevy">Chevy</option>
+                <option value="dodge">Dodge</option>
+                <option value="volvo">Volvo</option>
+            </select><br><br>
+        </div>
+        <div class="form-group">
+            <label for="formSelect">Choose a car model:</label><br>
+            <label>
+                <input 
+                type="radio" 
+                name="formModel" 
+                value="mustang"
+                checked/>Mustang
+            </label><br>
+            <label>
+                <input 
+                type="radio" 
+                name="formModel" 
+                value="corvette"/>Corvette
+            </label><br>
+            <label>
+                <input 
+                type="radio" 
+                name="formModel" 
+                value="ram"/>Ram
+            </label><br>
+            <label>
+                <input 
+                type="radio" 
+                name="formModel" 
+                value="s60"/>S60
+            </label><br><br>
+        </div>
+        <div class="form-group">
+            <label>
+                What options you like with your car? 
+                <span class="clue">(Check all that apply)</span>
+            </label><br>
+            <label>
+                <input
+                class="input-checkbox"
+                type="checkbox"
+                name="options"
+                value="premiumSound"/>Premium Sound
+            </label><br>
+            <label>
+                <input
+                class="input-checkbox"
+                type="checkbox"
+                name="options"
+                value="sunRoof"/>Sun Roof
+            </label><br>
+            <label>
+                <input
+                class="input-checkbox"
+                type="checkbox"
+                name="options"
+                value="customWheels"/>Custom Wheels
+            </label><br>
+            <label>
+                <input
+                class="input-checkbox"
+                type="checkbox"
+                name="options"
+                value="perfomance"/>Performance Package
+            </label><br>
+        </div>
+        <div class="form-group">
+            <p>Any comments or suggestions?</p>
+            <textarea
+                id="comments"
+                class="input-textarea"
+                name="comment"
+                placeholder="Enter your comment here..."
+            ></textarea><br>
+        </div>
+        <div class="form-group">
+            <button type="submit" id="submit" class="submit-button">
+                Submit
+            </button>
+        </div>
+        </form>
+    </div>
+    
+    <script src="survey.js" async defer></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlexDesign</title>
+    <link rel="stylesheet" href="flexdesign.css">
+</head>
+</head>
+<body>
+    <h2>Responsive design with 4 types of access with Flexbox</h2>
+    
+    <div class="flexboxRow">
+        <div class="flexboxColumn" style="background-color:#abbb;">
+            <h2>Entry 1 - Hyperlinklink</h2>
+            <p><a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a></p>
+        </div>
+        <div class="flexboxColumn" style="background-color:#bbb;">
+            <h2>Entry 2 - Image</h2>
+            <p>
+               <a href="https://www.w3schools.com/">
+                <img src="media/boat2.jpg" alt="boat2" style="width:50%;" >
+               </a>
+            </p>
+        </div>
+          <div class="flexboxColumn" style="background-color:#ccc;">
+            <h2>Entry 3 - Video</h2>
+            <p><video width="50%" controls>
+                <source src="media/btea.mp4" type="video/mp4">
+              </video></p>
+          </div>
+          <div class="flexboxColumn" style="background-color:#bbb;">
+            <h2>Entry 4 - Geolocation</h2>
+            <p>Click the button to get your coordinates.</p>
+
+            <button onclick="getLocation()">Try It</button>
+            
+            <p id="demo"></p>
+            
+            <script>
+                var x = document.getElementById("demo");
+                function getLocation() {
+                  if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(showPosition);
+                  } else {
+                    x.innerHTML = "Geolocation is not supported by this browser.";
+                  }
+                }
+ 
+                function showPosition(position) {
+                  x.innerHTML = "Latitude: " + position.coords.latitude +
+                  "<br>Longitude: " + position.coords.longitude;
+                }
+                </script>
+
+        </div>
+    </div>    
+
+</body>
+</html>
