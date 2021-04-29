@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprint2 Exercise</title>
+    <link rel="stylesheet" href="ex.css">
+    <script src="ex.js" async defer></script>
+</head>
+<body>
+    <div class="flexboxRow">
+        <div class=flexboxColumn>
+            <form>
+                <label for="myText">Add text to list</label>
+                <input type="text" id="myText" name="myText" value=""><br><br>
+                <label for="myNum">List number</label>
+                <input type="number" id="myNum" name="myNum" value=""><br>
+            </form>
+            <br>
+            <button id="addList" onclick="addEntries()">Add to list</button> 
+         
+        </div>
+        <div class="flexboxColumn">
+            <p>List1</p>
+            <table id="table1">
+            </table>
+            <button id="myClear1" onclick="clearTable1()">Clear list</button>
+        </div>
+        <div class="flecboxColumn">
+            <p>List2</p>
+            <table id="table2">
+            </table>
+            <button id="myClear2" onclick="clearTable2()">Clear list</button>
+        </div>
+    </div>    
+  
+</body>
+</html>
