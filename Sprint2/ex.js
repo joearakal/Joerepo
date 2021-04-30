@@ -35,10 +35,10 @@ function addEntries() {
 function clearTable1() {
     var tableRef = document.getElementById("table1");
     // clears table1
-    tableRef.innerHTML = " ";
+    tableRef.innerHTML = "";
 }
 function clearTable2() {
     var tableRef = document.getElementById("table2");
     // clears table2
-    tableRef.innerHTML = " ";
+    tableRef.innerHTML = "";
 }
