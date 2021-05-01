@@ -3,17 +3,17 @@ function addEntries() {
     var newNum2 = parseInt(document.forms["myForm"]["myNum2"].value);
     var newNum3 = parseInt(document.forms["myForm"]["myNum3"].value);
 
-    if (newNum1 == "") {
+    if (!(newNum1) && !(newNum1 == 0)) {
         alert("Enter min range");
         return false;
     }
-    else if ((newNum2 < newNum1) || (newNum2 == "")) {
+    else if (((newNum2 < newNum1) || !(newNum2)) && !(newNum2 == 0)) {
         alert("Enter valid max range");
         document.forms["myForm"]["myNum2"].value = "";
         return false;
     }
 
-    else if ((newNum3 < newNum1) || (newNum3 > newNum2) || (newNum3 == "")) {
+    else if (((newNum3 < newNum1) || (newNum3 > newNum2) || !(newNum3)) && !(newNum3 == 0)) {
         alert("Enter a number within range");
         document.forms["myForm"]["myNum3"].value = "";
         return false;
@@ -41,7 +41,7 @@ function compValues() {
     }
 
     var meanVal = parseFloat(totalVal / tabLen);
-    var meanTxt = ("Mean value      :" + meanVal);
+    var meanTxt = ("Mean value : &nbsp &nbsp " + meanVal);
     tableRef2.insertRow(tableRef2.rows.length).innerHTML = meanTxt;
 
     // Median Value Calculations
@@ -56,17 +56,59 @@ function compValues() {
 
     //Compute Median value
     var half = Math.floor(myArr.length / 2);
-    if (myArr.length % 2) {
+    if (myArr.length % 2)
         var medVal = myArr[half];
-    }
     else
         var medVal = (myArr[half - 1] + myArr[half]) / 2.0;
 
-    var medianTxt = ("Median value    :" + medVal);
+    var medianTxt = ("Median value : &nbsp" + medVal);
     tableRef2.insertRow(tableRef2.rows.length).innerHTML = medianTxt;
+
+    //Mode Value Calculation
     
+    var modeVal = calcMode(myArr);
+    var modeTxt = ("Mode value : &nbsp &nbsp " + modeVal + "<br>");
+    tableRef2.insertRow(tableRef2.rows.length).innerHTML = modeTxt;
 }
 
+function calcMode(myArr1) {
+    //This function reads a sorted integer array and returns an array.
+    // myArr1 is a sorted integer array.
+    var maxCount=0; newCount = 0;
+    let j = 0;
+    let firstValue =true;
+    myArr2 = [];
+    
+    // Check myArr1 element with the previous one to check for change in value.
+    // Keep track in newCount and save the highest count in maxCount.
+    // Start checking from the Second element of myArr1
+    // To avoid not counting the last element, we are addinga dummy element to the end of array
+
+    myArr1.push(9999);
+
+    for (let i = 1; i < myArr1.length; i++) {
+        if (myArr1[i] == myArr1[i - 1]) {
+            newCount += 1;
+            }
+        else if (myArr1[i] != myArr1[i - 1]) {
+            if (firstValue) {firstValue=false;
+                maxCount = newCount;
+            }
+            if (newCount > maxCount) {
+                maxCount = newCount;
+                newCount = 0;
+                myArr2 = [];                         //Clearing out myArr2
+                myArr2.push(myArr1[i - 1]);
+            }
+            else if (newCount == maxCount) {
+                newCount += 1;
+                myArr2.push(myArr1[i - 1]);
+            }
+            newCount=0;
+        }
+    }
+    return myArr2;
+}
 
 function clearValues() {
     // Clears table1
