@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BaconIpsum excercise2</title>
+
+    <link rel="stylesheet" href="baconIpsum2.css">
+    <script src="baconIpsum2.js"></script>
+</head>
+<body>
+    <h1>Web Service API Consumer Example</h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Obtain user information</h2>
+            <label for="newParagraphs">How many paragraphs?</label>
+            <select id="newParagraphs">
+                <option value=1>1</option>
+                <option value=2>2</option>
+                <option value=3>3</option>
+                <option value=4>4</option>
+                <option value=5>5</option>
+            </select><br /><br />
+            <label for="infoType"> All meat or Meat with filler ?</label>
+            <select id="infoType">
+                <option value=all-meat>All meat</option>
+                <option value=meat-and-filler>Meat and filler</option>
+            </select><br /><br />
+            <label for="encrptType"> Encrypt data with</label>
+            <select id="encrptType">
+                <option value="1">Algorithm 1</option>
+                <option value="2">Algorithm 2</option>
+            </select><br /><br />
+            <input type="button" value="Get my Bacon Ipsum!" onclick="getBaconipsum()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Returned data in raw JSON</h2>
+            <p id="myRawData">
+            </p>
+        </div>
+    </div>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Returned data as formatted paragraph</h2>
+            <p id="myFormattedData">
+            </p>
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Returned data as Encrypted paragraph</h2>
+            <p id="myEncryptData">
+            </p>
+        </div>
+    </div>    
+</body>
+</html>
