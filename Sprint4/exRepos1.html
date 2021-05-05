@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User repos from github</title>
+
+    <link rel="stylesheet" href="../Sprint3/baconipsum2.css">
+    <script src="exRepos.js"></script>
+</head>
+<body>
+    <h1> Find user repos on GIthub using API</h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Find a repo</h2>
+            <label for="myUser"> Enter the user id :</label>
+            <input type="text" id="myUser" value=""> 
+            <br /><br />
+            <input type="button" value="Get user's repos" onclick="getRepos()">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Here are the Repos</h2>
+            <p id="myFormattedData">
+            </p>
+        </div>
+    </div>
+</body>
+</html>
