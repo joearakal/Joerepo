@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprint2 MeanMedianMode</title>
+    <link rel="stylesheet" href="ex.css">
+    <script src="meanmedianmode.js" async defer></script>
+</head>
+<body>
+    <h1 style="padding-left: 28%;">Compute Mean Median and Mode</h1>
+    <div class="flexboxRow">
+        <div class=flexboxColumn>
+            <h2>Enter Range and numbers</h2><br>
+            <form name=myForm>
+                
+                <label for="myNum1">Enter Min Range</label>
+                <input type="number" id="myNum1" name="myNum1" value=""><br><br>
+                <label for="myNum2">Enter Max Range</label>
+                <input type="number" id="myNum2" name="myNum2" value=""><br><br>
+                <label for="myNum3">Enter number within range</label>
+                <input type="number" id="myNum3" name="myNum3" value=""><br><br>
+                <label for="addList" style="padding-left: 28%;"></label>
+                <input type="button" id="addList" value="Add to list" onclick="addEntries()"> 
+                <label for="myCompute" style="padding-left: 6%;"></label>
+                <input type="button" id="myCompute" value="Compute" onclick="compValues()">
+            </form>
+            <br>
+           
+        </div>
+        <div class="flexboxColumn">
+            <h2>Entered numbers</h2><br>
+            <table id="table1">
+            </table>
+            <input type="button" id="myClear1" value="Clear list" onclick="clearValues()">
+        </div>
+        <div class="flexboxColumn">
+            <h2>Computations</h2><br>
+            <table id="table2">
+            </table>
+            
+        </div>
+    </div>    
+  
+</body>
+</html>
