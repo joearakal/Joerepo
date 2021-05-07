@@ -116,7 +116,7 @@ function calcMode(myArr1: number[]): any{
     return myArr2;
 }
 
-function clearValues(): any {
+function clearValues(): boolean {
     // Clears table1
     let tableRef = document.getElementById("table1");
     tableRef.innerHTML = "";

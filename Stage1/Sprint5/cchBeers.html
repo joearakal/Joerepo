@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Punk API Get a beer</title>
+
+    <link rel="stylesheet" href="cchbeers.css">
+    <script src="cchbeers.js"></script>
+</head>
+<body>
+    <h1 style="padding-left: 45%; background-color: lightgray; "> Get Beer</h1>
+    <div class="myflexboxRow">
+        <div class="myflexboxColumn">
+            <h2>Order a beer</h2>
+            <label for="myBeer"> What kind of beer would you like?</label>
+            <select id="myBeer">
+                <option value=1>Light beer</option>
+                <option value=2>Medium alcohol</option>
+                <option value=3>High alcohol</option>
+                <option value=4>Random</option>
+            </select><br /><br />
+            <input type="button" value="Get my Beer" onclick="getBeer()" style="margin-left: 28%;">
+        </div>
+        <div class="myflexboxColumn">
+            <h2>Here is your beer</h2>
+            <p id="myFormattedData1">
+            </p>
+        </div>
+        <div class="myflexboxColumn">
+            <img src="" id="myImage" ;>
+            <!-- <img src="" id="myImage" style="width: 40%;height: 100%";> -->
+        </div>
+        
+        <div class="myflexboxColumn">
+            <h2> Your beer facts</h2>
+            <p id="myFormattedData2">
+            </p>
+        </div>
+    </div>
+</body>
+</html>
