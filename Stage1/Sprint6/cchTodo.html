@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My To-do List</title>
+    <link rel="stylesheet" href="cchTodo.css">
+</head>
+
+<body>
+    <h1>My To-do List</h1>
+    <div class="subHeading">
+        <h3> Use this to:</h3>
+        <p> - Add items to the list</p>
+        <p> - Mark items as complete </p>
+        <p> - Delete Items from the List</p>
+        <p> - Clear the List</p>
+    </div>
+    <br>
+    <form class="" action="cchTodo.html" method="post">
+        <input class="taskEntry" type="text" placeholder="New task ..." name="task">
+        <button type="submit" id="addBtn" name="addBtn">ADD</button>
+    </form>
+    <div class="myList">
+
+        <ul>
+        <!--    All <li> elements will be created dynamically in typescript/javascript code    
+            <li><span class="delete"> x </span><input type="checkbox"> Do laundry</li>
+        -->
+        </ul>
+        <a id="clear">CLEAR LIST</a>
+
+    </div>
+
+    <script src="cchTodo.js"></script>
+</body>
+
+</html>
