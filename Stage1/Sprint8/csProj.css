@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    /*background-image: url("media/brew.jpg"); */
+    background: linear-gradient(to right, rgba(255,255,255,0) 40%, rgba(255,255,255,1)),
+                url("media/brew.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    font-family: cursive; 
+ }
+
+h1 {
+    text-align: center;
+    font-family: cursive; 
+}
+.p2 {
+    background: rgb(0, 0, 36);
+    color: whitesmoke;
+    padding-left: 60px;
+    margin-right: 250;
+}
+
+p {
+    background: rgb(0, 0, 36);
+    color: whitesmoke;
+    padding-left: 5px;
+}
+
+.p1 {
+    background: rgb(0, 0, 36);
+    color: whitesmoke;
+    padding-left: 60px;
+    margin-left: 44px;
+}
+
+.label1 {
+    margin-left: 65px;
+    font-size: medium;
+}
+
+span {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 20px;
+    background-color: lightcoral;
+    cursor: pointer;
+    }    
+
+li {
+    list-style-type: none;
+    font-size: large;
+    padding-block: 2px;
+    padding-left: 4px;
+    padding-left: 4px;
+    background-color: rgb(134, 207, 255);
+    border-color: rgb(2, 51, 65);
+    border-style:inset;
+}
+
+ul li:nth-child(odd) {
+    background: #c9e1fc;
+    }
+
+.beerImage, .rtext {
+    float: left;
+    display: block;
+
+}
+
+.selectd {
+    background-color:lightblue;
+}
+ .main {
+     background-color: rgba(3, 2, 51, 0.2);
+  }
+  a{
+    background-color: #110253;
+    color:white;
+    padding-block: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: Medium;
+    float: right;
+    cursor: pointer;
+}
+
+    /* Container for flexboxes */
+    .flexboxRow {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      
+    /* Create two equal entries in myflexbox */
+    .flexboxColumn {
+      flex: 50%;
+      padding: 30px;
+      background-color: rgba(3, 2, 51, 0.2);
+    }
+     
+/* Media query - on screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+
+@media screen and (max-width: 992px) {
+    .flexboxColumn {
+        flex: 50%;
+    }
+}
+  
+@media screen and (max-width: 600px) {
+    .flexboxRow {
+        flex-direction: column;
+    }
+}
