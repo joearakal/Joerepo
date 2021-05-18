@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrewerJoes</title>
+    <link href="csProj.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="main">
+        <h1>Brewer Joe's</h1>
+        <div>
+            <label class="label1" for="beerType"> What type of beer would you like?</label>
+            <select id="beerType">
+                <!--            <option value="1">Your Favorites</option>   -->
+                <option value="2">Light beer</option>
+                <option value="3">Medium alcohol</option>
+                <option value="4">High alcohol</option>
+            </select>
+            <input type="button" class="first" value="Get my Beers" onclick="getBeers()" style="margin-left: 8%;">
+        </div>
+        <div class="flexboxRow">
+            <div class="flexboxColumn">
+                <p id="myData1"></p>
+                <p id="myData2"></p>
+            </div>
+            <div class="flexboxColumn rtext">
+                 <img src="" id="myImage" class="beerImage">
+            </div>
+        </div>
+        <div class="flexboxRow">
+            <div class="flexboxColumn">
+                <p class="p1"> Select your Beers</p>
+
+                <div class="myList">
+                    <ul class=myListUl>
+                        <!--    All <li> elements will be created dynamically in typescript/javascript code   -->
+                    </ul>
+                </div>
+            </div>
+            <div class="flexboxColumn">
+                <p class="p1"> Purchased Beer</p>
+                <div class="myBuyList">
+                    <ul id="buyUl" class="myBuyUl">
+                        <!--    All <li> elements will be created dynamically in typescript/javascript code  -->
+                    </ul>
+                    <a id="purchase">Purchase your Items</a>
+                    <br><br>
+                    <p id="buyMessage" class="p2"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+<script src="csProj.js"></script>
+
+</html>
