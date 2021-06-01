@@ -1,0 +1,16 @@
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\bin\Debug\net5.0\IocExample.exe
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\bin\Debug\net5.0\IocExample.deps.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\bin\Debug\net5.0\IocExample.runtimeconfig.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\bin\Debug\net5.0\IocExample.runtimeconfig.dev.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\bin\Debug\net5.0\IocExample.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\bin\Debug\net5.0\ref\IocExample.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\bin\Debug\net5.0\IocExample.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\obj\Debug\net5.0\IocExample.csprojAssemblyReference.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\obj\Debug\net5.0\IocExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\obj\Debug\net5.0\IocExample.AssemblyInfoInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\obj\Debug\net5.0\IocExample.AssemblyInfo.cs
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\obj\Debug\net5.0\IocExample.csproj.CoreCompileInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\obj\Debug\net5.0\IocExample.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\obj\Debug\net5.0\ref\IocExample.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\obj\Debug\net5.0\IocExample.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocExample\obj\Debug\net5.0\IocExample.genruntimeconfig.cache

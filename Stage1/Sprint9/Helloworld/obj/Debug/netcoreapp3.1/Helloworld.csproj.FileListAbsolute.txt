@@ -1,0 +1,13 @@
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.exe
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.deps.json
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.json
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.dev.json
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csprojAssemblyReference.cache
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfoInputs.cache
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfo.cs
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\JArakal\source\repos\Joerepo\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\bin\Debug\net5.0\MVCCollection.exe
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\bin\Debug\net5.0\MVCCollection.deps.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\bin\Debug\net5.0\MVCCollection.runtimeconfig.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\bin\Debug\net5.0\MVCCollection.runtimeconfig.dev.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\bin\Debug\net5.0\MVCCollection.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\bin\Debug\net5.0\ref\MVCCollection.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\bin\Debug\net5.0\MVCCollection.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\obj\Debug\net5.0\MVCCollection.csprojAssemblyReference.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\obj\Debug\net5.0\MVCCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\obj\Debug\net5.0\MVCCollection.AssemblyInfoInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\obj\Debug\net5.0\MVCCollection.AssemblyInfo.cs
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\obj\Debug\net5.0\MVCCollection.csproj.CoreCompileInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\obj\Debug\net5.0\MVCCollection.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\obj\Debug\net5.0\ref\MVCCollection.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\obj\Debug\net5.0\MVCCollection.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint10\MVCCollection\obj\Debug\net5.0\MVCCollection.genruntimeconfig.cache

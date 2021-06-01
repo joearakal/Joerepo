@@ -1,0 +1,16 @@
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\bin\Debug\net5.0\EventPlanner.exe
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\bin\Debug\net5.0\EventPlanner.deps.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\bin\Debug\net5.0\EventPlanner.runtimeconfig.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\bin\Debug\net5.0\EventPlanner.runtimeconfig.dev.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\bin\Debug\net5.0\EventPlanner.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\bin\Debug\net5.0\ref\EventPlanner.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\bin\Debug\net5.0\EventPlanner.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\obj\Debug\net5.0\EventPlanner.csprojAssemblyReference.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\obj\Debug\net5.0\EventPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\obj\Debug\net5.0\EventPlanner.AssemblyInfoInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\obj\Debug\net5.0\EventPlanner.AssemblyInfo.cs
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\obj\Debug\net5.0\EventPlanner.csproj.CoreCompileInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\obj\Debug\net5.0\EventPlanner.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\obj\Debug\net5.0\ref\EventPlanner.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\obj\Debug\net5.0\EventPlanner.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\EventPlanner\obj\Debug\net5.0\EventPlanner.genruntimeconfig.cache

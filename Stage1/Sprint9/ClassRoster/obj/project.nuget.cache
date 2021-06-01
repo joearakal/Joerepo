@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WoIhI74vmOF6M3iFSMfP5LMTiroQhii0Qw7nVYS5BPIj4d6HgNUaTCn7Y9I1nR1AHzTxfKJ2XYIJzcLtjAkZGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JArakal\\source\\repos\\Joerepo\\Stage1\\Sprint9\\ClassRoster\\ClassRoster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JArakal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JArakal\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\JArakal\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\JArakal\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

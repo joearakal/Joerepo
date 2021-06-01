@@ -1,0 +1,16 @@
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\bin\Debug\net5.0\PricingEngineApp.exe
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\bin\Debug\net5.0\PricingEngineApp.deps.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\bin\Debug\net5.0\PricingEngineApp.runtimeconfig.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\bin\Debug\net5.0\PricingEngineApp.runtimeconfig.dev.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\bin\Debug\net5.0\PricingEngineApp.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\bin\Debug\net5.0\ref\PricingEngineApp.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\bin\Debug\net5.0\PricingEngineApp.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\obj\Debug\net5.0\PricingEngineApp.csprojAssemblyReference.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\obj\Debug\net5.0\PricingEngineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\obj\Debug\net5.0\PricingEngineApp.AssemblyInfoInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\obj\Debug\net5.0\PricingEngineApp.AssemblyInfo.cs
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\obj\Debug\net5.0\PricingEngineApp.csproj.CoreCompileInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\obj\Debug\net5.0\PricingEngineApp.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\obj\Debug\net5.0\ref\PricingEngineApp.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\obj\Debug\net5.0\PricingEngineApp.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint12\PricingEngineApp\obj\Debug\net5.0\PricingEngineApp.genruntimeconfig.cache

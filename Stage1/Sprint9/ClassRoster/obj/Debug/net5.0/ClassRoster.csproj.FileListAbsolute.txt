@@ -1,0 +1,16 @@
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\bin\Debug\net5.0\ClassRoster.exe
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\bin\Debug\net5.0\ClassRoster.deps.json
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\bin\Debug\net5.0\ClassRoster.runtimeconfig.json
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\bin\Debug\net5.0\ClassRoster.runtimeconfig.dev.json
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\bin\Debug\net5.0\ClassRoster.dll
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\bin\Debug\net5.0\ref\ClassRoster.dll
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\bin\Debug\net5.0\ClassRoster.pdb
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\obj\Debug\net5.0\ClassRoster.csprojAssemblyReference.cache
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\obj\Debug\net5.0\ClassRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\obj\Debug\net5.0\ClassRoster.AssemblyInfoInputs.cache
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\obj\Debug\net5.0\ClassRoster.AssemblyInfo.cs
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\obj\Debug\net5.0\ClassRoster.csproj.CoreCompileInputs.cache
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\obj\Debug\net5.0\ClassRoster.dll
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\obj\Debug\net5.0\ref\ClassRoster.dll
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\obj\Debug\net5.0\ClassRoster.pdb
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\ClassRoster\obj\Debug\net5.0\ClassRoster.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\bin\Debug\net5.0\IocEventPlanner.exe
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\bin\Debug\net5.0\IocEventPlanner.deps.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\bin\Debug\net5.0\IocEventPlanner.runtimeconfig.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\bin\Debug\net5.0\IocEventPlanner.runtimeconfig.dev.json
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\bin\Debug\net5.0\IocEventPlanner.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\bin\Debug\net5.0\ref\IocEventPlanner.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\bin\Debug\net5.0\IocEventPlanner.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\obj\Debug\net5.0\IocEventPlanner.csprojAssemblyReference.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\obj\Debug\net5.0\IocEventPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\obj\Debug\net5.0\IocEventPlanner.AssemblyInfoInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\obj\Debug\net5.0\IocEventPlanner.AssemblyInfo.cs
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\obj\Debug\net5.0\IocEventPlanner.csproj.CoreCompileInputs.cache
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\obj\Debug\net5.0\IocEventPlanner.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\obj\Debug\net5.0\ref\IocEventPlanner.dll
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\obj\Debug\net5.0\IocEventPlanner.pdb
+C:\Users\JArakal\Joerepo\Stage1\Sprint11\IocEventPlanner\obj\Debug\net5.0\IocEventPlanner.genruntimeconfig.cache

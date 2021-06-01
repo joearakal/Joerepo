@@ -1,0 +1,16 @@
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\obj\Debug\net5.0\cchCollection.csprojAssemblyReference.cache
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\obj\Debug\net5.0\cchCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\obj\Debug\net5.0\cchCollection.AssemblyInfoInputs.cache
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\obj\Debug\net5.0\cchCollection.AssemblyInfo.cs
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\obj\Debug\net5.0\cchCollection.csproj.CoreCompileInputs.cache
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\bin\Debug\net5.0\cchCollection.exe
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\bin\Debug\net5.0\cchCollection.deps.json
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\bin\Debug\net5.0\cchCollection.runtimeconfig.json
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\bin\Debug\net5.0\cchCollection.runtimeconfig.dev.json
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\bin\Debug\net5.0\cchCollection.dll
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\bin\Debug\net5.0\ref\cchCollection.dll
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\bin\Debug\net5.0\cchCollection.pdb
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\obj\Debug\net5.0\cchCollection.dll
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\obj\Debug\net5.0\ref\cchCollection.dll
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\obj\Debug\net5.0\cchCollection.pdb
+C:\Users\JArakal\source\repos\Joerepo\Stage1\Sprint9\cchCollection\obj\Debug\net5.0\cchCollection.genruntimeconfig.cache
